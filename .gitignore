@@ -1,0 +1,18 @@
+# A deliberately small presentation repository: only these reviewed files belong here.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/RIGHTS.md
+!/THIRD_PARTY_NOTICES.md
+!/index.html
+!/styles.css
+!/showcase.js
+!/assets/
+/assets/*
+!/assets/workspace-overview.svg
+!/docs/
+/docs/*
+!/docs/FEATURES.md
+!/docs/DEMO.md
+!/docs/PUBLICATION-SCOPE.md
