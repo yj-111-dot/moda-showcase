@@ -1,18 +1,5 @@
-# A deliberately small presentation repository: only these reviewed files belong here.
+# Public introduction only; keep product files and assets out of this repository.
 /*
 !/.gitignore
 !/.gitattributes
 !/README.md
-!/RIGHTS.md
-!/THIRD_PARTY_NOTICES.md
-!/index.html
-!/styles.css
-!/showcase.js
-!/assets/
-/assets/*
-!/assets/workspace-overview.svg
-!/docs/
-/docs/*
-!/docs/FEATURES.md
-!/docs/DEMO.md
-!/docs/PUBLICATION-SCOPE.md
